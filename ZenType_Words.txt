@@ -1,4 +1,3 @@
-about
 search
 other
 which
